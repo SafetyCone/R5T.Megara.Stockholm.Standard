@@ -1,0 +1,4 @@
+R5T.Megara.Stockholm.Standard - The standard aggregation library of an IStreamSerializer<T>-based implementation of the IFileSerializer<T> service for the Megara project.
+
+Goals
+
